@@ -35,7 +35,7 @@
 </picture>
 
 # 👻 Pac-Man Contribution Graph
-![Pac-Man contribution graph](https://raw.githubusercontent.com/egabelva/egabelva/output/pacman-contribution-graph.svg)
+![Pac-Man contribution graph](https://raw.githubusercontent.com/egabelva/egabelva/output-pacman/pacman-contribution-graph.svg)
 
 ---
 
